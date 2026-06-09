@@ -1055,6 +1055,7 @@ img {
     cursor: pointer;
     transition: all 0.2s;
     backdrop-filter: blur(8px);
+    z-index: 10;
 }
 
 .profile-back:hover {
